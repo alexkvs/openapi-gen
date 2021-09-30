@@ -1,4 +1,4 @@
-# openapi-gen-usage
+# openapi-generator-cli-usage
 
 The batch file for generating code from JSON schema files.<br />
 Includes options for adding validation annotations to generated GTO's.
