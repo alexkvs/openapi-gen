@@ -1,4 +1,4 @@
-# openapi-gen
+# openapi-gen-usage
 
 Config Options for Spring:
 https://openapi-generator.tech/docs/generators/spring/
