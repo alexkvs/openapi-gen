@@ -1,5 +1,8 @@
 # openapi-gen-usage
 
+The batch file to generate code from JSON schema files.
+Includes options for adding validation annotations to generated GTO's.
+
 Config Options for Spring:
 https://openapi-generator.tech/docs/generators/spring/
 
