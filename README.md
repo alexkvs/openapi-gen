@@ -1,10 +1,12 @@
 # openapi-gen-usage
 
-The batch file to generate code from JSON schema files.
+The batch file for generating code from JSON schema files.<br />
 Includes options for adding validation annotations to generated GTO's.
 
-Config Options for Spring:
-https://openapi-generator.tech/docs/generators/spring/
+
+See: <br />
+OpenAPITools https://github.com/OpenAPITools/openapi-generator-cli <br />
+Config Options for Spring https://openapi-generator.tech/docs/generators/spring/
 
 
 ##### To suppress serializing properties with null values (using Jackson >2.0), you can anntotate generated DTO class with @JsonInclude.
